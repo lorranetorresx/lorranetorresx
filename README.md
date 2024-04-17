@@ -1,8 +1,8 @@
-### Seja bem-vindo(a) 👋
+### <h1>Seja bem-vindo(a)!</h1>
 
-- 💻 Atualmente estudando html, css e javascript.
+- 💻 Atualmente estudando HTML, CSS e JavaScript.
 - 📫 Contato: lorranetorrxs@gmail.com
-- 🎀 Pronouns: ela/dela
+- 🎀 Pronomes: ela/dela
 
 <div> 
   <a href="https://www.instagram.com/codepontocom/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -11,11 +11,13 @@
   </div>
   
 <div style="display: inline_block"><br>
-  <h1>💻 Tech Skills </h1>
+  <h2>💻 Tech Skills </h2>
   <img align="center" alt="Trixie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Trixie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Trixie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Trixie" height="200" width="200" src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif">
   
-![Trixie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorranetorresx&show_icons=true&theme=radical)
+![Trixie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorranetorresx&show_icons=true&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="center" alt="Trixie" src="https://www.pixilart.com/art/live-on-cb97514d85c12ba?ft=staff-picks">
