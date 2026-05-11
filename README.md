@@ -9,9 +9,17 @@
 
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&backgroundOpacity=0&center=false&vCenter=false&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Hey%2C+I%27m+Lorrane%5CnI%27m+a+Cybersecurity+student%5CnWelcome+to+my+profile%21%22%2C%22font%22%3A%22Old+English%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.0999000999000999%2C%22lineHeight%22%3A1%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG))
 
+![View count](https://komarev.com/ghpvc/?username=lorranetorresx&color=lightgrey)
+
 • 📱 Contact: lorranetorrxs@gmail.com
 
 • 🖤 Pronouns: she/her
+
+• 🔵 Blue Team 
+
+• 💻 SOC Analyst in progress 
+
+• 🔎 OSINT 
 
 <table>
 <tr>
@@ -43,13 +51,14 @@ I'm interested in Cybersecurity and my goal is to become a Security Analyst. <br
 
 </table>
 
-![View count](https://komarev.com/ghpvc/?username=lorranetorresx&color=lightgrey)
+
 
 
   </div>
 
-  <p align="center">
+  <h2 align="center">Connect</h2>
 
+<p align="center">
 <a href="https://github.com/lorranetorresx">
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -67,13 +76,6 @@ I'm interested in Cybersecurity and my goal is to become a Security Analyst. <br
 </a>
 
 </p>
-
-<div style="display: inline_block"><br>
-  <h3>💻 Currently studying...</h3>
-  <img align="center" alt="Trixie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Trixie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Trixie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Trixie-git" height=30 width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"<br>
 
 
 
