@@ -54,7 +54,7 @@ I'm interested in Cybersecurity and my goal is to become a Security Analyst. <br
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">
+<a href="https://www.linkedin.com/in/lorrane-t-522801226">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
