@@ -45,11 +45,28 @@ I'm interested in Cybersecurity and my goal is to become a Security Analyst. <br
 
 ![View count](https://komarev.com/ghpvc/?username=lorranetorresx&color=lightgrey)
 
-<div> 
-  <a href="https://www.instagram.com/codepontocom/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "lorranetorrxs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lorrane-torres-522801226/?trk=people-guest_people_search-card&originalSubdomain=br" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   </div>
+
+  <p align="center">
+
+<a href="https://github.com/lorranetorresx">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://instagram.com/codepontocom">
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:lorranetorrxs@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
 
 <div style="display: inline_block"><br>
   <h3>💻 Currently studying...</h3>
