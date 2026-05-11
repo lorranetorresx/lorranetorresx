@@ -51,10 +51,8 @@ I'm interested in Cybersecurity and my goal is to become a Security Analyst. <br
 
 </table>
 
-
-
-
   </div>
+
 
   <h2 align="center">Connect</h2>
 
