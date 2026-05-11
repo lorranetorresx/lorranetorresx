@@ -11,15 +11,15 @@
 
 ![View count](https://komarev.com/ghpvc/?username=lorranetorresx&color=lightgrey)
 
-• 📱 Contact: lorranetorrxs@gmail.com
-
-• 🖤 Pronouns: she/her
-
-• 🔵 Blue Team 
 
 • 💻 SOC Analyst in progress 
 
+• 🛡️ Defense Security 
+
+• 🔵 Blue Team 
+
 • 🔎 OSINT 
+
 
 <table>
 <tr>
