@@ -7,7 +7,7 @@
   />
 </div>
 
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&backgroundOpacity=0&center=false&vCenter=false&border=false&lines=%5B%7B%22text%22%3A%22Hey%2C+I%27m+Lorrane%5CnI%27m+a+Cybersecurity+student%5CnWelcome+to+my+profile%21%22%2C%22font%22%3A%22Old+English%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.0999000999000999%2C%22lineHeight%22%3A1%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&backgroundOpacity=0&center=false&vCenter=false&border=false&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Hey%2C+I%27m+Lorrane%5CnI%27m+a+Cybersecurity+student%5CnWelcome+to+my+profile%21%22%2C%22font%22%3A%22Old+English%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.0999000999000999%2C%22lineHeight%22%3A1%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG))
 
 • 📱 Contact: lorranetorrxs@gmail.com
 
@@ -24,14 +24,12 @@ width="220px">
 
 <td>
 
-<h2>Hey! I'm Lorrane 👾</h2>
+<h2>About me 👾</h2>
 
-I'm a Computer Science student and I like learning how systems <br>
+I'm from Brazil, I'm 24 years old and I like learning how systems <br>
 work and how to keep them secure. <br>
 I'm curious people and I think this made me get interesed in Cybersecurity. <br>
 I'm interested in Cybersecurity and my goal is to become a Security Analyst. <br>
-I like learning how systems work and how to keep them secure.
-
 <br><br>
 
 <blockquote>
