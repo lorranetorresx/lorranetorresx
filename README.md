@@ -39,7 +39,7 @@ width="220px">
 I'm from Brazil, I'm 24 years old and I like learning how systems <br>
 work and how to keep them secure. <br>
 I'm curious people and I think this made me get interesed in Cybersecurity. <br>
-I'm interested in Cybersecurity and my goal is to become a Security Analyst. <br>
+My goal is to become a Security Analyst. <br>
 <br><br>
 
 <blockquote>
