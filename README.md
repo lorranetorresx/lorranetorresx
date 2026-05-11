@@ -13,6 +13,38 @@
 
 • 🖤 Pronouns: she/her
 
+<table>
+<tr>
+
+<td>
+<img 
+src="https://raw.githubusercontent.com/lorranetorresx/lorranetorresx/main/baixados-Photoroom.png"
+width="220px">
+</td>
+
+<td>
+
+<h2>Hey! I'm Lorrane 👾</h2>
+
+I'm a Computer Science student and I like learning how systems <br>
+work and how to keep them secure. <br>
+I'm curious people and I think this made me get interesed in Cybersecurity. <br>
+I'm interested in Cybersecurity and my goal is to become a Security Analyst. <br>
+I like learning how systems work and how to keep them secure.
+
+<br><br>
+
+<blockquote>
+"Exploring the digital world, one line of code at a time."
+</blockquote>
+<br>
+
+
+</td>
+</tr>
+
+</table>
+
 ![View count](https://komarev.com/ghpvc/?username=lorranetorresx&color=lightgrey)
 
 <div> 
@@ -27,12 +59,8 @@
   <img align="center" alt="Trixie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Trixie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Trixie-git" height=30 width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"<br>
-  <img align="top" alt="Trixie" height="200" width="200" src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif">
 
-<div aligng="center">
-<img src="https://streak-stats.demolab.com?user=lorranetorresx&theme=cobalt&hide_border=false" alt="lorranetorresx's GitHub Stats"/>
-</div>
-div>
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=white&section=footer)
 
