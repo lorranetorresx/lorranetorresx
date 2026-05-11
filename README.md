@@ -1,16 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFB3E7&height=200&section=header)
+<div align="">
+  <img 
+    src="https://github.com/lorranetorresx/lorranetorresx/blob/main/sword2.jpg?raw=true"
+    width="850px"
+    height="300px"
+    alt="banner"
+  />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FA86D6&center=true&vCenter=true&random=false&width=1000&lines=Hey%2C+my+name+is+Lorrane;I'm+22+years+old;I'm+a+Computer+Science+student;I'm+from+Brazil;Welcome!%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?backgroundColor=%23000000&backgroundOpacity=0&center=false&vCenter=false&border=false&lines=%5B%7B%22text%22%3A%22Hey%2C+I%27m+Lorrane%5CnI%27m+a+Cybersecurity+student%5CnWelcome+to+my+profile%21%22%2C%22font%22%3A%22Old+English%22%2C%22color%22%3A%22%23ffffff%22%2C%22fontSize%22%3A24%2C%22typingSpeed%22%3A0.0999000999000999%2C%22lineHeight%22%3A1%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
-### <h1>Welcome to my profile!</h1>
+• 📱 Contact: lorranetorrxs@gmail.com
 
-• 💻 I'm currently studying HTML, CSS and JavaScript.
+• 🖤 Pronouns: she/her
 
-• 📫 Contact: lorranetorrxs@gmail.com
-
-• 🎀 Pronouns: she/her
-
-![View count](https://komarev.com/ghpvc/?username=lorranetorresx&color=fa86d6)
+![View count](https://komarev.com/ghpvc/?username=lorranetorresx&color=lightgrey)
 
 <div> 
   <a href="https://www.instagram.com/codepontocom/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,11 +29,11 @@
   <img align="center" alt="Trixie-git" height=30 width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"<br>
   <img align="top" alt="Trixie" height="200" width="200" src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif">
 
+<div aligng="center">
+<img src="https://streak-stats.demolab.com?user=lorranetorresx&theme=cobalt&hide_border=false" alt="lorranetorresx's GitHub Stats"/>
+</div>
+div>
 
-![Trixie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorranetorresx&show_icons=true&theme=omni)
-
-[![Trixie's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorranetorresx&layout=donut)](https://github.com/lorranetorresx/github-readme-stats)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=white&section=footer)
 
 
